@@ -3,6 +3,19 @@
 ## Descripción
 Una aplicación de escritorio desarrollada con Tkinter que permite eliminar el fondo de una imagen.
 
+## Capturas de pantalla
+![image1](https://github.com/MixDark/RemoverFondo/assets/151795541/7c72ad44-778c-42ae-8c90-369078e3a10b)
+
+![Image2](https://github.com/MixDark/RemoverFondo/assets/151795541/5722cbda-24a2-4eb5-856a-6862f09e87fa)
+
+Imagen original
+
+![image3](https://github.com/MixDark/RemoverFondo/assets/151795541/58af7590-ba82-444f-a54e-258e7602cafa)
+
+Imagen sin fondo
+
+![image4](https://github.com/MixDark/RemoverFondo/assets/151795541/53e2aa08-8aa9-469c-8a4a-2a2e34e9a228)
+
 ## Características
 - Remueve el fondo de las imagenes
 - Soporte formatos como jpg, jpeg, png
@@ -38,17 +51,3 @@ python interfaz_grafica.py
 ## Estructura del proyecto:
 
 ![image](https://github.com/user-attachments/assets/517f0524-149b-4d76-948e-22ea682fa500)
-
-
-## Capturas de pantalla:
-![image1](https://github.com/MixDark/RemoverFondo/assets/151795541/7c72ad44-778c-42ae-8c90-369078e3a10b)
-
-![Image2](https://github.com/MixDark/RemoverFondo/assets/151795541/5722cbda-24a2-4eb5-856a-6862f09e87fa)
-
-Imagen original
-
-![image3](https://github.com/MixDark/RemoverFondo/assets/151795541/58af7590-ba82-444f-a54e-258e7602cafa)
-
-Imagen sin fondo
-
-![image4](https://github.com/MixDark/RemoverFondo/assets/151795541/53e2aa08-8aa9-469c-8a4a-2a2e34e9a228)
