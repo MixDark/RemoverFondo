@@ -1,5 +1,4 @@
 # Remover fondo
-Aplicación para remover el fondo de las imagenes.
 
 ## Descripción
 Una aplicación de escritorio desarrollada con Tkinter que permite eliminar el fondo de una imagen.
