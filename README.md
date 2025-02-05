@@ -1,12 +1,12 @@
 # Remover fondo
 
 ## Descripción
-Una aplicación de escritorio desarrollada con Tkinter que permite eliminar el fondo de una imagen.
+Una aplicación de escritorio desarrollada con PyQt6 que permite eliminar el fondo de una imagen.
 
 ## Capturas de pantalla
-![image1](https://github.com/MixDark/RemoverFondo/assets/151795541/7c72ad44-778c-42ae-8c90-369078e3a10b)
+![image](https://github.com/user-attachments/assets/36063269-ebf0-4221-beb1-fe5b37f452ca)
 
-![Image2](https://github.com/MixDark/RemoverFondo/assets/151795541/5722cbda-24a2-4eb5-856a-6862f09e87fa)
+![image](https://github.com/user-attachments/assets/3e3f5102-ff12-4fa7-ae6e-fdfe75f0127c)
 
 Imagen original
 
@@ -24,12 +24,12 @@ Imagen sin fondo
 
 ## Tecnologías utilizadas
 - Python 3.x
-- Tkinter
-- Pillow
+- PyQt6
 - Rembg
 
 ## Requerimientos
-- Python 3.x 
+- Python 3.x
+- PyQt6
 - Pillow
 - Rembg
 - onnxruntime
@@ -45,9 +45,10 @@ python interfaz_grafica.py
 ## Uso
 1. Abre la aplicación
 2. Haz clic en "Seleccionar" y busca la imagen
-3. Haz clic en "Guardar como" y elige la ubicación que prefieras
+3. Haz clic en "Guardar" y elige la ubicación que prefieras
 4. Haz clic en "Eliminar fondo"
 
 ## Estructura del proyecto:
 
-![image](https://github.com/user-attachments/assets/517f0524-149b-4d76-948e-22ea682fa500)
+![image](https://github.com/user-attachments/assets/147ef033-c2e5-4819-8c47-608a9f9182e3)
+
