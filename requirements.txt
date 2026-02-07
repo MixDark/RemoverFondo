@@ -1,0 +1,6 @@
+PyQt6
+Pillow
+rembg[cpu]
+opencv-python
+numpy
+mediapipe
