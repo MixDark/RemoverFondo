@@ -63,7 +63,7 @@ Una aplicación de escritorio moderna y potente construida con Python y PyQt6 qu
 ## 🐛 Solución de problemas comunes
 
 **Error: "No onnxruntime backend found"**
-Si encuentras este error, asegúrate de haber ejecutado `setup.bat`. Si persiste, intenta reinstalar:
+Si persiste, intenta reinstalar:
 ```bash
 pip install --force-reinstall "rembg[cpu]"
 ```
