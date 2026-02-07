@@ -26,11 +26,6 @@ Una aplicación de escritorio moderna y potente construida con Python y PyQt6 qu
     ```
 
 2.  **Instalar dependencias**:
-    Ejecuta el script de instalación automática:
-    ```cmd
-    setup.bat
-    ```
-    O manualmente:
     ```bash
     pip install -r requirements.txt
     ```
